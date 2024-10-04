@@ -1,0 +1,257 @@
+[
+    {
+        "id": 1,
+        "question": "I want to spend more time around people with different identities than me.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 2,
+        "question": "I have a lot of exposure to people with different identities than me.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 3,
+        "question": "If I believe something strongly, I have a hard time changing my opinion.",
+        "category": "rigidity"
+    },
+    {
+        "id": 4,
+        "question": "I sometimes say potentially offensive things.",
+        "category": "controversy"
+    },
+    {
+        "id": 5,
+        "question": "I feel comfortable sharing space with people who have very different morals than me.",
+        "category": "controversy"
+    },
+    {
+        "id": 6,
+        "question": "I would like to interact more with people who express controversial views or have different morals than me.",
+        "category": "controversy"
+    },
+    {
+        "id": 7,
+        "question": "When I'm looking for new information about a subject, I will seek out sources that agree with what I already know.",
+        "category": "rigidity"
+    },
+    {
+        "id": 8,
+        "question": "It doesn't bother me when strangers debate my views, even heatedly.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 9,
+        "question": "I enjoy/appreciate humor that others might find offensive.",
+        "category": "controversy"
+    },
+    {
+        "id": 10,
+        "question": "I would be comfortable with spending time with someone who uses offensive humor.",
+        "category": "controversy"
+    },
+    {
+        "id": 11,
+        "question": "If I feel strongly about something, I tend to enter conversations with the intention of convincing others to change their minds.",
+        "category": "rigidity"
+    },
+    {
+        "id": 12,
+        "question": "I often say 'always,' 'never,' 'every,' 'all,' 'none,' and other firm, certain words when I'm sharing opinions or information.",
+        "category": "rigidity"
+    },
+    {
+        "id": 13,
+        "question": "My instinct is to defend my opinions or knowledge when someone suggests I might be wrong.",
+        "category": "rigidity"
+    },
+    {
+        "id": 14,
+        "question": "I sometimes knowingly exaggerate things.",
+        "category": "rigidity"
+    },
+    {
+        "id": 15,
+        "question": "My close community consists of people from many racial, cultural, financial, political, and social backgrounds.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 16,
+        "question": "I would like my close community to be more diverse.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 17,
+        "question": "I would like my close community to include a wide range of beliefs and opinions.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 18,
+        "question": "Sometimes I feel stressed about coming up with new things to do with friends.",
+        "category": "relationships"
+    },
+    {
+        "id": 19,
+        "question": "I prefer doing similar activities rather than trying new ones.",
+        "category": "interests"
+    },
+    {
+        "id": 20,
+        "question": "I like having friends who encourage me to try new things.",
+        "category": "interests"
+    },
+    {
+        "id": 21,
+        "question": "I want to have more friends with different hobbies and interests.",
+        "category": "interests"
+    },
+    {
+        "id": 22,
+        "question": "I feel comfortable around people who are interested in different things than me.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 23,
+        "question": "I have a lot of interests, hobbies, and/or passions.",
+        "category": "interests"
+    },
+    {
+        "id": 24,
+        "question": "I lose interest in activities easily.",
+        "category": "interests"
+    },
+    {
+        "id": 25,
+        "question": "I'd like to practice being interested in things for a longer period of time.",
+        "category": "interests"
+    },
+    {
+        "id": 26,
+        "question": "If I don't like something/am not good at something at first, I'm not very good at giving it another chance.",
+        "category": "interests"
+    },
+    {
+        "id": 27,
+        "question": "It's easy for me to make and keep friends.",
+        "category": "relationships"
+    },
+    {
+        "id": 28,
+        "question": "I want to make more friends.",
+        "category": "relationships"
+    },
+    {
+        "id": 29,
+        "question": "I know what it's like to have a close group of friends who feel like family.",
+        "category": "relationships"
+    },
+    {
+        "id": 30,
+        "question": "My relationships are the most portant part of my life.",
+        "category": "relationships"
+    },
+    {
+        "id": 31,
+        "question": "I like to have a very large community.",
+        "category": "relationships"
+    },
+    {
+        "id": 32,
+        "question": "I feel like I am capable of navigating my emotions, generally speaking.",
+        "category": "emotions"
+    },
+    {
+        "id": 33,
+        "question": "Loving myself more is a priority for me.",
+        "category": "emotions"
+    },
+    {
+        "id": 34,
+        "question": "I clearly understand my values.",
+        "category": "emotions"
+    },
+    {
+        "id": 35,
+        "question": "I have a very strong moral compass, and ethics are important to me.",
+        "category": "emotions"
+    },
+    {
+        "id": 36,
+        "question": "It's important for me to understand how other people think and feel, and why.",
+        "category": "communityComfort"
+    },
+    {
+        "id": 37,
+        "question": "I understand what my emotions feel like in my body.",
+        "category": "emotions"
+    },
+    {
+        "id": 38,
+        "question": "I know the names of many different emotions.",
+        "category": "emotions"
+    },
+    {
+        "id": 39,
+        "question": "When I have intense emotions, I am capable of calming myself down before reacting impulsively.",
+        "category": "emotions"
+    },
+    {
+        "id": 40,
+        "question": "I am able to move on from challenging emotions without my life being halted or consumed.",
+        "category": "emotions"
+    },
+    {
+        "id": 41,
+        "question": "I would be excited to learn more tools and skills for managing my emotions.",
+        "category": "emotions"
+    },
+    {
+        "id": 42,
+        "question": "I validate that others' experiences and feelings are real, even if I don't understand them.",
+        "category": "emotions"
+    },
+    {
+        "id": 43,
+        "question": "I find it easy to talk about things that are distressing or potentially shameful for me.",
+        "category": "emotions"
+    },
+    {
+        "id": 44,
+        "question": "I consider emotional intelligence to be very important, and I prioritize it.",
+        "category": "emotions"
+    },
+    {
+        "id": 45,
+        "question": "I enjoy being around emotionally expressive people.",
+        "category": "emotions"
+    },
+    {
+        "id": 46,
+        "question": "I grew up in an environment where showing emotions was encouraged.",
+        "category": "emotions"
+    },
+    {
+        "id": 47,
+        "question": "It's easy for me to tell people I love them.",
+        "category": "emotions"
+    },
+    {
+        "id": 48,
+        "question": "It's easy for me to cry in front of others.",
+        "category": "emotions"
+    },
+    {
+        "id": 49,
+        "question": "There are many people in my life who I have been vulnerable with.",
+        "category": "emotions"
+    },
+    {
+        "id": 50,
+        "question": "It is usually easy for me to understand how other people are feeling.",
+        "category": "emotions"
+    },
+    {
+        "id": 51,
+        "question": "I rarely cut off relationships without communication or warning.",
+        "category": "relationships"
+    }
+]
