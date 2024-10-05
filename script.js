@@ -44,12 +44,13 @@ const vantiroRanges = {
         interests: { min: 4.0, max: 5.0 }
     },
     "Vantiro-3": {
-        communityComfort: { min: 2.0, max: 3.0 },
-        rigidity: { min: 2.5, max: 4.0 },
-        controversy: { min: 3.0, max: 4.5 },
-        relationships: { min: 2.0, max: 3.0 },
-        emotions: { min: 2.5, max: 4.0 },
-        interests: { min: 3.0, max: 5.0 }
+        // Shishiq 3. Moderately community-oriented, highly relationship-oriented. Low rigidity of beliefs. High emotional awareness. Low desire to try new things. High interest in controversy. 
+        communityComfort: { min: 3.0, max: 4.0 },
+        rigidity: { min: 2.0, max: 3.0 },
+        controversy: { min: 4.0, max: 5.0 },
+        relationships: { min: 3.5, max: 4.5 },
+        emotions: { min: 3.5, max: 4.5 },
+        interests: { min: 1.5, max: 2.5 }
     },
     "Vantiro-4": {
         // Shishiq 4. Strategists. Moderately preferential to familiar community. Moderate rigidity in beliefs. Low interest in controversy. Moderate relational ties. High emotional security. Moderate breadth of interests. 
@@ -88,13 +89,13 @@ const vantiroRanges = {
         interests: { min: 4.0, max: 5.0 }
     },
     "Vantiro-8": {
-        // Shishiq 3. 
+        // Shishiq 3. Neutral-leaning-impartial about community. Very rigid belief structures, moderate interest in controversy. Relatively low interest in relationships. Low emotional awareness. Low interest in trying new things.  
         communityComfort: { min: 2.0, max: 3.0 },
-        rigidity: { min: 2.5, max: 4.0 },
-        controversy: { min: 3.0, max: 4.5 },
+        rigidity: { min: 4.0, max: 5.0 },
+        controversy: { min: 2.5, max: 3.5 },
         relationships: { min: 2.0, max: 3.0 },
-        emotions: { min: 2.5, max: 4.0 },
-        interests: { min: 3.0, max: 5.0 }
+        emotions: { min: 1.5, max: 2.5 },
+        interests: { min: 1.0, max: 2.0 }
     },
     "Vantiro-9": {
         // Shishiq 9. Technologists. Highest need for community comfort; mistrusting of outsiders. High rigidity. High interest in controversy. Lower focus on relationships. Moderate emotional stability. Low-moderate diversity of interests. 
@@ -106,12 +107,12 @@ const vantiroRanges = {
         interests: { min: 2.5, max: 3.5 }
     },
     "Vantiro-10": {
-        communityComfort: { min: 2.0, max: 3.0 },
-        rigidity: { min: 2.5, max: 4.0 },
-        controversy: { min: 3.0, max: 4.5 },
-        relationships: { min: 2.0, max: 3.0 },
-        emotions: { min: 2.5, max: 4.0 },
-        interests: { min: 3.0, max: 5.0 }
+        communityComfort: { min: 0.0, max: 0.0 },
+        rigidity: { min: 0.0, max: 0.0 },
+        controversy: { min: 0.0, max: 0.0 },
+        relationships: { min: 0.0, max: 0.0 },
+        emotions: { min: 0.0, max: 0.0 },
+        interests: { min: 0.0, max: 0.0 }
     },
     "Vantiro-11": {
         // Shishiq 2. Negotiators. Highly socially-oriented and loosely-organized communities with a strong desire to learn and understand other cultures. Comfortable discussing many topics related to The Zenith's political charge. Generally motivated to participate in and mediate conversation, bridge gaps, and expand horizons, but predominantly from a place of intrigue and not emotion. Minimal emphasis placed on individual relationships, instead strongly prioritizing ecosystem relationships. Low desire for familiar community. Low rigidity. High interest in controversy. Low interest in relationships. High emotional stability. High diversity of interests. 
